@@ -4,11 +4,12 @@ ORReries works with researchers to create and share understanding of what it mea
 ## What is ORR?
 ORR stands for Open Reflexive Research.
 
-Open: these materials and this community are built on Open Science principles. 
+**Open**: these materials and this community are built on open principles. 
+Mozilla defines [open working](https://mozilla.github.io/open-leadership-training-series/) as a way of working in which "_everyone_ is invited to collaborate on something amazing, and any new product or knowledge is shared widely and freely."
 
-Reflexive: paying attention to how research and researchers shape each other.
+**Reflexive**: paying attention to how research and researchers shape each other and how they are influenced by - and influence - their contexts.
 
-Research: broadly defined - any process that involves finding something out!
+**Research**: broadly defined - any work that aims to find something out!
 
 ## What is an orrery?
 [Orreries](https://en.wikipedia.org/wiki/Orrery) are models of the Solar System. 
