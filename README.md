@@ -1,2 +1,2 @@
-# feminist-orreries
-Open reflexive feminist research
+# ORReries
+Open reflexive research.
