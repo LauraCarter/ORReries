@@ -1,6 +1,9 @@
 # Welcome to ORReries
 ORReries works with researchers to create and share understanding of what it means to research in a reflexive and feminist way, and to build tools for researchers to develop these skills, teach others, and advocate for feminist reflexive research practices in their communities.
 
+Researchers who want to make their research feminist and reflexive can use ORReries to find resources to help them and to communicate and connect with other researchers. 
+They can also contribute to ORReries to help other researchers.
+
 ## What is ORR?
 ORR stands for Open Reflexive Research.
 
