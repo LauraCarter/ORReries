@@ -31,4 +31,6 @@ As well as being clever pieces of engineering, they are often beautifully design
 Orreries don't capture everything we know about how the universe works: but they are a good place to start and help us go further in our work. 
 
 ## How to get involved
-ORReries is a very new project! Currently the best way to get involved or contact the team is to open a github Issue. 
+ORReries is a very new project! 
+Currently the best way to get involved is to open an issue or a pull request in this repository. 
+The best way to contact the team is to open or comment on an issue.
