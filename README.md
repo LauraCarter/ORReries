@@ -32,5 +32,7 @@ Orreries don't capture everything we know about how the universe works: but they
 
 ## How to get involved
 ORReries is a very new project! 
+It has a basic [roadmap](https://github.com/LauraCarter/ORReries/projects/1) which sets out some short-, medium- and long-term tasks.
+
 Currently the best way to get involved is to open an issue or a pull request in this repository. 
 The best way to contact the team is to open or comment on an issue.
