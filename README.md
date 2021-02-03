@@ -34,12 +34,13 @@ Orreries don't capture everything we know about how the universe works: but they
 ORReries is a very new project! 
 It has a basic [roadmap](https://github.com/LauraCarter/ORReries/projects/1) which sets out some short-, medium- and long-term tasks.
 
-Currently the best way to get involved is to open an issue or a pull request in this repository. 
+Currently the best way to get involved is to [open an issue](https://github.com/LauraCarter/ORReries/blob/main/README.md#how-to-use-issues) or a pull request in this repository. 
 The best way to contact the team is to open or comment on an issue.
 
-### How to use issues
+### How to use issues in GitHub
 Do you have a question about ORReries? 
 Or a suggestion for something to add or improve? 
+Or have you noticed something that isn't working and needs to be fixed. 
 The best way to reach other contributors is to open an issue. 
 
 To open an issue, you need to have a GitHub account: if you don't have one yet, here is how to register for an account.
