@@ -36,3 +36,15 @@ It has a basic [roadmap](https://github.com/LauraCarter/ORReries/projects/1) whi
 
 Currently the best way to get involved is to open an issue or a pull request in this repository. 
 The best way to contact the team is to open or comment on an issue.
+
+### How to use issues
+Do you have a question about ORReries? 
+Or a suggestion for something to add or improve? 
+The best way to reach other contributors is to open an issue. 
+
+To open an issue, you need to have a GitHub account: if you don't have one yet, here is how to register for an account.
+Once you have an account, log in and then follow [these steps](https://docs.github.com/en/github/managing-your-work-on-github/creating-an-issue) to open an issue. 
+Your issue will be visible to anyone who looks at the repository. 
+Once the issue is opened, you can edit it.
+Other people can also respond with comments, questions and suggestions. 
+Issues are really useful to suggest improvements, ask questions, or describe tasks in a GitHub repository. 
