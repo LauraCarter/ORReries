@@ -40,8 +40,8 @@ The best way to contact the team is to open or comment on an issue.
 ### How to use issues in GitHub
 Do you have a question about ORReries? 
 Or a suggestion for something to add or improve? 
-Or have you noticed something that isn't working and needs to be fixed. 
-The best way to reach other contributors is to open an issue. 
+Or have you noticed something that isn't working and needs to be fixed? 
+The best way to reach other contributors for all of these is to **open an issue**. 
 
 To open an issue, you need to have a GitHub account: if you don't have one yet, you can register for a free account [here](https://github.com/pricing).
 Once you have an account, log in and then follow [these steps](https://docs.github.com/en/github/managing-your-work-on-github/creating-an-issue) to open an issue. 
