@@ -48,4 +48,7 @@ Once you have an account, log in and then follow [these steps](https://docs.gith
 Your issue will be visible to anyone who looks at the repository. 
 Once the issue is opened, you can edit it.
 Other people can also respond with comments, questions and suggestions. 
+
 Issues are really useful to suggest improvements, ask questions, or describe tasks in a GitHub repository. 
+You can see a list of currently opened issues here. 
+If you have any suggestions on how to address these, we want to hear from you!
