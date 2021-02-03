@@ -50,5 +50,5 @@ Once the issue is opened, you can edit it.
 Other people can also respond with comments, questions and suggestions. 
 
 Issues are really useful to suggest improvements, ask questions, or describe tasks in a GitHub repository. 
-You can see a list of currently opened issues here. 
+You can see a list of currently opened issues [here](https://github.com/LauraCarter/ORReries/issues). 
 If you have any suggestions on how to address these, we want to hear from you!
