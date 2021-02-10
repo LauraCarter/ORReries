@@ -1,4 +1,4 @@
-# Code of Conduct / Community Participation Guidelines
+# Code of Conduct and Community Participation Guidelines
 
 As a community we welcome everyone, and encourage a friendly and positive environment.
 
