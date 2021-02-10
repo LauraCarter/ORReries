@@ -83,4 +83,9 @@ We will respect confidentiality requests for the purpose of protecting victims o
 
 ### Attribution & Acknowledgements
 
-This code of conduct is based on the Open Life Science Code of Conduct, which in turn is based on the Open Code of Conduct from the TODOGroup.
+This code of conduct is based on the [Open Life Science Code of Conduct](https://github.com/open-life-science/ols-2/blob/master/CODE_OF_CONDUCT.md), which in turn is based on the Open Code of Conduct from the TODOGroup.
+
+### Review
+
+This code of conduct will be reviewed at least once a year. 
+Next review due: _10 Feb 2022._
